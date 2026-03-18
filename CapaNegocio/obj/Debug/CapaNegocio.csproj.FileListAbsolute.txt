@@ -1,0 +1,9 @@
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\bin\Debug\CapaNegocio.dll
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\bin\Debug\CapaNegocio.pdb
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\obj\Debug\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\obj\Debug\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\obj\Debug\CapaNego.81B9D119.Up2Date
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\obj\Debug\CapaNegocio.dll
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\CapaNegocio\obj\Debug\CapaNegocio.pdb
