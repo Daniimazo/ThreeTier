@@ -3,8 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\Three Tier Proyect.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\Three Tier Proyect.csproj|solutionrelative:three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CapaPresentacion||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +25,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,28 +40,59 @@
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs",
-              "RelativeDocumentMoniker": "Three Tier Proyect\\Form1.cs",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Three Tier Proyect\\Form1.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-18T19:57:10.366Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CapaPresentacion",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\CapaPresentacion.csproj",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\CapaPresentacion.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\CapaPresentacion.csproj",
+              "RelativeToolTip": "Three Tier Proyect\\CapaPresentacion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-18T20:12:07.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\Class1.cs",
+              "RelativeToolTip": "CapaNegocio\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:07:34.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\Class1.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Class1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\Class1.cs",
+              "RelativeToolTip": "CapaDatos\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:06:27.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Three Tier Proyect\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T19:57:10.366Z"
             }
           ]
         }
