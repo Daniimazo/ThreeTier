@@ -16,6 +16,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,8 +56,8 @@
               "Title": "CapaPresentacion",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\CapaPresentacion.csproj",
               "RelativeDocumentMoniker": "Three Tier Proyect\\CapaPresentacion.csproj",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\CapaPresentacion.csproj",
-              "RelativeToolTip": "Three Tier Proyect\\CapaPresentacion.csproj",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\CapaPresentacion.csproj*",
+              "RelativeToolTip": "Three Tier Proyect\\CapaPresentacion.csproj*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-18T20:12:07.141Z",
               "EditorCaption": ""
