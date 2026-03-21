@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\principal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\logon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\logon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\capadatos\\dallogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dallogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\capanegocio\\blllogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\blllogon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\logon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\logon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\capanegocio\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\bllusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\capadatos\\dalusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dalusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\capadatos\\dalconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\dalconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E07BF14-1B22-4A6C-B4DB-987E26253A95}|CapaDatos\\CapaDatos.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\capadatos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +53,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{930BBE75-8321-4F94-BA1D-931B482CE14A}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|c:\\users\\hp\\desktop\\visual 2022 proyectos\\three tier proyect\\three tier proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6817C763-8F9C-4229-88F2-5D6C8CAFAD41}|Three Tier Proyect\\CapaPresentacion.csproj|solutionrelative:three tier proyect\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,7 +86,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Program.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Program.cs",
+              "RelativeToolTip": "Three Tier Proyect\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:14:22.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Principal.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Principal.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Principal.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Principal.cs",
+              "RelativeToolTip": "Three Tier Proyect\\Principal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:07:17.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BLLLogon.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\BLLLogon.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\BLLLogon.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\BLLLogon.cs",
+              "RelativeToolTip": "CapaNegocio\\BLLLogon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:05:01.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Logon.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Logon.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Logon.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Logon.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Three Tier Proyect\\Logon.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:04:13.466Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs",
               "RelativeDocumentMoniker": "Three Tier Proyect\\Form1.cs",
@@ -54,7 +149,97 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Form1.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Form1.cs",
+              "RelativeToolTip": "Three Tier Proyect\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T21:46:16.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DALLogon.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\DALLogon.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DALLogon.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\DALLogon.cs",
+              "RelativeToolTip": "CapaDatos\\DALLogon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:05:30.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Logon.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Logon.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Logon.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Logon.cs",
+              "RelativeToolTip": "Three Tier Proyect\\Logon.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:06:10.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Principal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Principal.cs",
+              "RelativeDocumentMoniker": "Three Tier Proyect\\Principal.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\Three Tier Proyect\\Principal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Three Tier Proyect\\Principal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T22:07:15.931Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BLLUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\BLLUsuario.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\BLLUsuario.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\BLLUsuario.cs",
+              "RelativeToolTip": "CapaNegocio\\BLLUsuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T21:43:36.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DALUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\DALUsuario.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DALUsuario.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\DALUsuario.cs",
+              "RelativeToolTip": "CapaDatos\\DALUsuario.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAgwEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T02:41:36.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DALConexion.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\DALConexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DALConexion.cs",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\DALConexion.cs",
+              "RelativeToolTip": "CapaDatos\\DALConexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-21T02:34:53.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaNegocio\\Class1.cs",
               "RelativeDocumentMoniker": "CapaNegocio\\Class1.cs",
@@ -66,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Visual 2022 Proyectos\\Three Tier Proyect\\CapaDatos\\Class1.cs",
               "RelativeDocumentMoniker": "CapaDatos\\Class1.cs",

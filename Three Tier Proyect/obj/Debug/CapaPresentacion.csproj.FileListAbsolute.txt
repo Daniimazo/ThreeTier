@@ -11,3 +11,7 @@ C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\
 C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\obj\Debug\Three Tier Proyect.exe
 C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\obj\Debug\Three Tier Proyect.pdb
 C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\obj\Debug\Three_Tier_Proyect.Form1.resources
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\bin\Debug\CapaDatos.dll
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\bin\Debug\CapaDatos.pdb
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\obj\Debug\CapaPresentacion.Logon.resources
+C:\Users\HP\Desktop\Visual 2022 Proyectos\Three Tier Proyect\Three Tier Proyect\obj\Debug\CapaPresentacion.Principal.resources
