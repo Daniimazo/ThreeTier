@@ -1,0 +1,81 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Three_Tier_Proyect;
+
+namespace CapaPresentacion
+{
+    public partial class Principal : Form
+    {
+        public Principal()
+        {
+            InitializeComponent();
+        }
+
+        private void AddFormAsTab(Form form, string title)
+        {
+            form.TopLevel = false;
+            form.FormBorderStyle = FormBorderStyle.None;
+            form.Dock = DockStyle.Fill;
+            TabPage tab = new TabPage(title);
+            tab.Controls.Add(form);
+            tab.Tag = form;
+            tabControlMain.TabPages.Add(tab);
+            form.Show();
+        }
+
+        private void CloseTabAt(int index)
+        {
+            if (index >= 0 && index < tabControlMain.TabPages.Count)
+            {
+                var tab = tabControlMain.TabPages[index];
+                if (tab.Tag is Form f)
+                {
+                    f.Close();
+                    f.Dispose();
+                }
+                tabControlMain.TabPages.RemoveAt(index);
+                tab.Dispose();
+            }
+        }
+
+        private void usuariosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form1 frm = new Form1();
+            AddFormAsTab(frm, "Usuarios");
+        }
+
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+        private void Principal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void clientesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmCliente frmCliente = new frmCliente();
+            AddFormAsTab(frmCliente, "Clientes");
+        }
+
+        private void productosToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmProductos F = new frmProductos();
+            AddFormAsTab(F, "Productos");
+        }
+
+        private void proveedoresToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmProveedores P = new frmProveedores();
+            AddFormAsTab(P, "Proveedores");
+        }
+    }
+}
